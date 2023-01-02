@@ -1,11 +1,19 @@
 ---
 ---
 
+
 @import index, font, basic, layout, classes
 
 @media (min-width: 40em)
   body > header, body > article, body > footer
     padding: 1.75em calc(40% - 17em)
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 {% if site.minimal %}
 
