@@ -24,6 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:shailim@stanford.edu"}
   - {title: Github, icon: github, url: "https://github.com/shailim-99"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MathurShaili"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=CMP6OWEAAAAJ&hl=en&oi=sra"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
